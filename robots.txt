@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: internet-kazino.github.io
+Sitemap: https://internet-kazino.github.io/sitemap.xml
